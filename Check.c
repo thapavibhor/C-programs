@@ -14,6 +14,8 @@ void main()
   }
   else 
   {
-    printf("\nNumber is negative ")
+    printf("\nNumber is negative ");
   }
+ getch();
+ clrscr();
 }
